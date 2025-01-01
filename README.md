@@ -22,7 +22,7 @@ Here are a few projects I've worked on:
 
 1. **[eLanceBot.com](https://elancebot.com)** - Providing tools to help IT professionals and freelancers enhance their productivity.
 2. **[SSL Solution](https://sslsol.com)** - Offering business solutions, consultancy, and services tailored to meet various organizational needs.
-3. **[HM Solution](https://hmsolution.com)** - [Brief Description]
+3. **[HM Solution](https://hmsolutionz.com)** - [Brief Description]
 4. **[SpySkill.com](https://spyskill.com)** - Delivering world-class enterprise security solutions and operating a Cyber Security Research and Training Institute.
 
 ## GitHub Stats
